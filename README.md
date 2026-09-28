@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=💬+Talkie+Time;Real-time+Chat+App" alt="Talkie Time" />
-</h1>
-
-<p align="center">
-  A full-stack real-time chat application built with the MERN stack and Socket.io
-</p>
+# 💬 Talkie Time — Full Stack Real-time Chat App
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -13,6 +7,8 @@
   <img src="https://img.shields.io/badge/Socket.io-4.x-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
+
+A full-stack real-time chat application built with the MERN stack and Socket.io.
 
 ---
 
@@ -137,7 +133,7 @@ Start the production server:
 npm start
 ```
 
-In production, the backend serves the compiled React frontend from `frontend/dist/`.
+> In production, the backend serves the compiled React frontend from `frontend/dist/`.
 
 ---
 
